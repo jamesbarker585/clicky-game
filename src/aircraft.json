@@ -1,0 +1,62 @@
+[
+    {
+        "jet": "F-16 Fighting Falcon",
+        "image": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_variants#/media/File:F-16_June_2008.jpg"
+    },
+    {
+        "jet": "F-22 Raptor",
+        "image": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor#/media/File:Lockheed_Martin_F-22A_Raptor_JSOH.jpg"
+    },
+    {
+        "jet": "F-35 Lightning II",
+        "image": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II#/media/File:F-35A_flight_(cropped).jpg"
+    },
+    {
+        "jet": "A-10 Thunderbolt II",
+        "image": "https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II#/media/File:A-10_-_32156159151.jpg"
+    },
+    {
+        "jet": "F-15 Eagle",
+        "image": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle#/media/File:F-15,_71st_Fighter_Squadron,_in_flight.JPG"
+    },
+    {
+        "jet": "B-1 Lancer",
+        "image": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer#/media/File:B-1B_over_the_pacific_ocean.jpg"
+    },
+    {
+        "jet": "B-2 Spirit",
+        "image": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit#/media/File:B-2_Spirit_(cropped).jpg"
+    },
+    {
+        "jet": "B-52 Stratofortress",
+        "image": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress#/media/File:B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_(cropped).jpg"
+    },
+    {
+        "jet": "F-4 Phantom II",
+        "image": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II#/media/File:QF-4_Holloman_AFB.jpgg"
+    },
+    {
+        "jet": "F-117 Nighthawk",
+        "image": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk#/media/File:F-117_Nighthawk_Front.jpg"
+    },
+    {
+        "jet": "P-51 Mustang",
+        "image": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang#/media/File:375th_Fighter_Squadron_North_American_P-51D-5-NA_Mustang_44-13926.jpg"
+    },
+    {
+        "jet": "mastiff",
+        "image": "https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk#/media/File:Curtiss_P-40E_Warhawk_2_USAF.jpg"
+    },
+    {
+        "jet": "P-38 Lightning",
+        "image": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning#/media/File:Lockheed_P-38H_Lightning_-_1.jpg"
+    },
+    {
+        "jet": "B-17 Flying Fortress",
+        "image": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress#/media/File:B17_-_Chino_Airshow_2014_(framed).jpg"
+    },
+    {
+        "jet": "B-25 Mitchell",
+        "image": "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell#/media/File:North_American_B-25C_Mitchell_(15954740087).jpg"
+    }
+]
