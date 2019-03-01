@@ -1,7 +1,7 @@
 import React from "react";
 import "./AircraftCard.css";
 
-const DogCard = props => (
+const AircraftCard = props => (
     <div className="card">
         <div className="img-container">
             <a onClick={() => props.selectAircraft(props.jet)} 

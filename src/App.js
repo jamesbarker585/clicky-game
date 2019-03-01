@@ -63,12 +63,13 @@ class App extends Component {
                 />
                 <Title />
                 {
-                    this.state.aircrafts.map(aircraft => (
+                    this.state.aircraft.map((aircraft, index) => (
                         <AircraftCard
                             jet={aircraft.jet}
                             image={aircraft.image}
                             selectAircraft={this.selectAircraft} 
                             curScore={this.state.curScore}
+                            key= {index}
                         />
                     ))
                 }
