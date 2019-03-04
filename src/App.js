@@ -25,7 +25,7 @@ class App extends Component {
         }
     }
 
-    selectaircraft = jet => {
+    selectAircraft = jet => {
         const findAircraft = this.state.unselectedAircraft.find(item => item.jet === jet);
 
         if(findAircraft === undefined) {
